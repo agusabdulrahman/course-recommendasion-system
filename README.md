@@ -7,10 +7,14 @@ Ini adalah mini project Udemy Course Recommendation System dan Dashboard yang di
 2. Fitur dashboard yang memudahkan pengguna dalam memonitor kursus yang sedang populer dan banyak dicari di Udemy
 
 ## Data Set
-Data set yang digunakan dalam proyek ini dapat diunduh dari Kaggle melalui link berikut: https://www.kaggle.com/datasets/andrewmvd/udemy-courses
+Data set yang digunakan dalam proyek ini dapat diunduh dari Kaggle melalui link berikut: ```https://www.kaggle.com/datasets/andrewmvd/udemy-courses```
 
 ## Proyek GitHub
-Proyek ini dapat diakses di GitHub dengan link [https://github.com/agusabdulrahman/course-recommendasion-system/tree/main.] Saya akan memperbarui proyek ini secara teratur dan memperbaikinya agar lebih baik lagi.
+Proyek ini dapat diakses di GitHub dengan link: ```https://github.com/agusabdulrahman/course-recommendasion-system``` Saya akan memperbarui proyek ini secara teratur dan memperbaikinya agar lebih baik lagi.
 
 ## Kontribusi
 Saya sangat terbuka dengan kontribusi dan saran dari siapa saja. Jangan ragu untuk menghubungi saya jika Anda ingin membantu meningkatkan proyek ini atau memberikan saran. Terima kasih.
+
+## Demo
+
+
