@@ -12,9 +12,15 @@ Data set yang digunakan dalam proyek ini dapat diunduh dari Kaggle melalui link 
 ## Proyek GitHub
 Proyek ini dapat diakses di GitHub dengan link: ```https://github.com/agusabdulrahman/course-recommendasion-system``` Saya akan memperbarui proyek ini secara teratur dan memperbaikinya agar lebih baik lagi.
 
+## Demo
+
+https://user-images.githubusercontent.com/59172071/231612834-f04988e8-fab2-4b15-b932-e39758431e36.mp4
+
 ## Kontribusi
 Saya sangat terbuka dengan kontribusi dan saran dari siapa saja. Jangan ragu untuk menghubungi saya jika Anda ingin membantu meningkatkan proyek ini atau memberikan saran. Terima kasih.
 
-## Demo
+
+
+
 
 
